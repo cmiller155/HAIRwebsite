@@ -1,0 +1,19 @@
+body{margin: 50px;
+}
+h1{color: #b3b3ff; 
+    border:2px dotted #1affa3; 
+    font-size:50px; 
+    font-family: fantasy; 
+    text-align: center;
+    padding: 50px} 
+h2{color:#ffff4d;
+border:2px dotted #ff1a75;
+font-size:30px;
+font-family: fantasy;
+text-align:center;
+padding:10px}
+a.menu{color: darkgreen;
+    text-decoration: none;
+    font-size: 20px;} 
+body{background:#604020;}
+a.source{color:#53ff1a;}
